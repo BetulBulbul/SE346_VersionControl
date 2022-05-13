@@ -10,4 +10,6 @@ int main()
 
 	printf("Ozge Tekin,987654,SE\n");
 
+	printf("Betul Bulbul,17243610029,ISE\n");
+
 }
